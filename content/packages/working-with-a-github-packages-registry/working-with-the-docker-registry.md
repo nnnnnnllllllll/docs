@@ -1,3 +1,4 @@
+![craiyon_2022-6-24_2-36-22](https://user-images.githubusercontent.com/107820969/175438026-27e71088-9687-47e1-8b45-f1ebde568523.png)
 ---
 title: Working with the Docker registry
 intro: '{% ifversion fpt or ghec %}The Docker registry has now been replaced by the {% data variables.product.prodname_container_registry %}.{% else %}You can push and pull your Docker images using the {% data variables.product.prodname_registry %} Docker registry.{% endif %}'
